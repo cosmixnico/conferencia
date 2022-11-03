@@ -1,0 +1,58 @@
+#topimage{
+    background-position: center;
+    background-size: cover;
+}
+#midleimage{
+    background-position: center;
+    background-size: cover;
+}
+
+#titulocharla {
+    margin: 2px 0px ;
+}
+
+main#oradores {
+    padding-top: 90px;
+    margin-top: -70px !important;
+}
+
+
+section#lugaryfecha {
+    padding-top: 83px;
+    margin-top: -70px !important;
+    width: 100%;
+}
+
+section#participa {
+    padding-top: 83px;
+    margin-top: -70px !important;
+}
+
+div#traineecard, div#juniorcard {
+    border-left: 1px solid;
+}
+
+.form-control:disabled {
+    background-color: #d4e5f6;
+    opacity: 1;
+}
+
+a#comprarLink{
+    color: #00ff4e !important;
+}
+
+.navbar-toggler-icon {
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='rgba%28255, 280, 280, 255.55%29' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+}
+
+footer{
+    width: 100%;
+}
+
+#formNombre{
+    width: 80%;
+}
+
+footer.row.bg-dark.text-light.pt-3.pb-3 {
+    text-align: center;
+}
